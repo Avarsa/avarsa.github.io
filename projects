@@ -1,0 +1,15 @@
+<html>
+<title>projects</title>
+
+
+<body>
+  <h1 style="text-align:center; margin-top: 15%">Projects</h1>
+  
+  <ol>
+    <li>Video Chat Application in Go Lang and Reactjs</li>
+    <li>File Sharing Web Application</li>
+    <li>Watching Youtube with Friends</li>
+  </ol>
+</body>
+
+</html>
